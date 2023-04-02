@@ -11,7 +11,7 @@ software engineer student
 I'm a Software Engineer student from danish technical university. I have experience in Desktop app programming language, Mobile application development, Web development, database programming, Operating systems and little experience in compiler languages. I'm so intressted in technology, especially when it's come to programming languages, DevOps and full-stack.
 
 * 🌍  I'm based in Copenhagen
-* ✉️  You can contact me at [salimdk97@gmail.com](mailto:salimdk97@gmail.com)
+* ✉️  You can contact me at [sulaiman96@outlook.dk](mailto:sulaiman96@outlook.dk)
 * 🤝  I'm open to collaborating on anything
 
 ### Skills
@@ -28,7 +28,7 @@ I'm a Software Engineer student from danish technical university. I have experie
 
 ### Socials
 
-<p align="left"> <a href="https://discordapp.com/users/623875866090536963" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sulaimankasas96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/salim963" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/salim_0045" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/salim-omar-097199238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discordapp.com/users/623875866090536963" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sulaimankasas96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/sulaimankasas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/dragonheart_007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sulaiman-kasas-61750b127/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
