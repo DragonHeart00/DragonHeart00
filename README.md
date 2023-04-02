@@ -16,7 +16,7 @@ Sulaiman Kasas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react, java,kotlin,c,cs,dotnet,mysql,nginx,nodejs,html,css,js,react,linux,docker,r,tensorflow,cloudflare,figma,androidstudio,idea,v,visualstudio,vscode,github,git,discord"/>
+    <img src="https://skillicons.dev/icons?i=react,androidstudio,azure, "/>
   </a>
 </p>
 
