@@ -1,6 +1,6 @@
 Hi
 ===========================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=1868F7&background=A0DFFF00&lines=Welcome+to+my+github%2C++I'm+Salim+Omar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=4AF742&width=435&lines=Sulaiman+Kasas)](https://git.io/typing-svg)
 
 <a  rel="noopener"  target="_blank" href="https://salim-o.vercel.app/" >See my Portfolio 🌐</a>
 
@@ -8,11 +8,9 @@ Hi
 software engineer student
 -------------------------
 
-I'm a Software Engineer student from danish technical university. I have experience in Desktop app programming language, Mobile application development, Web development, database programming, Operating systems and little experience in compiler languages. I'm so intressted in technology, especially when it's come to programming languages, DevOps and full-stack.
+’m an undergraduate student in a Bachelor program of Engineering in Software Technology at DTU. During my study, I have gained a good combination of knowledge and skills of programming by using different programming languages such as Java and JavaScript and python. I am an ambitious undergraduate engineer with appetite for new challenges, learning and developing new skills. I have a good knowledge of Front-end using React framework, database NoSQL, project management, back-end using node js, python (flask) and git. but I am also open to being challenged with varied and exciting work assignments. 
 
-* 🌍  I'm based in Copenhagen
 * ✉️  You can contact me at [sulaiman96@outlook.dk](mailto:sulaiman96@outlook.dk)
-* 🤝  I'm open to collaborating on anything
 
 ### Skills
 
