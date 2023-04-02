@@ -1,6 +1,6 @@
 Sulaiman Kasas
 ===========================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=4AF742&width=435&lines=Dragon+Of+North)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=4AF742&width=435&lines=Dragon+Of+North)](https://git.io/typing-svg)
 
 <a  rel="noopener"  target="_blank" href="https://salim-o.vercel.app/" >See my Portfolio 🌐</a>
 
