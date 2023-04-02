@@ -14,7 +14,7 @@ Sulaiman Kasas
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=FFD2045D&repeat=false&width=435&lines=My+Skills)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,androidstudio,azure,bash,c,cs,css,docker,figma,flask,firebase,git,github,html,java,js,jenkins,kotlin,linkedin,linux,materialui,maven,mongodb,mysql,nginx,nodejs,postman,rabbitmq,ruby,threejs,ts,vscode,wordpress"/>
   </a>
