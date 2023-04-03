@@ -33,8 +33,6 @@ Sulaiman Kasas
 
 <a href="https://github.com/DragonHeart00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonHeart00&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/DragonHeart00"><img src="https://activity-graph.herokuapp.com/graph?username=DragonHeart00&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DragonHeart00)](https://github.com/LordDashMe/github-contribution-stats/)
 
