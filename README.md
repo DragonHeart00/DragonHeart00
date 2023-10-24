@@ -8,7 +8,7 @@ Sulaiman Kasas
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=36BCF7FF&multiline=true&repeat=false&width=441&height=100&lines=Software+Engineer)](https://git.io/typing-svg)
 -------------------------
 
-I’m an undergraduate student in a Bachelor program of Engineering in Software Technology at DTU. During my study, I have gained a good combination of knowledge and skills of programming by using different programming languages such as Java and JavaScript and python. I am an ambitious undergraduate engineer with appetite for new challenges, learning and developing new skills. I have a good knowledge of Front-end using React framework, database NoSQL, project management, back-end using node js, python (flask) and git. but I am also open to being challenged with varied and exciting work assignments. 
+I have had a particular interest and focus on developing my strong programming skills. In addition, I can draw on my experience in software technology and develop software systems through the optimized use of various tools. Partly to support the development of the systems and partly to test them
 
 * ✉️  You can contact me at [sulaiman96@outlook.dk](mailto:sulaiman96@outlook.dk)
 
