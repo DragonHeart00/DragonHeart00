@@ -2,8 +2,6 @@ Sulaiman Kasas
 ===========================
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=36BCF7FF&multiline=true&width=441&height=100&lines=Dragon+Of+North)](https://git.io/typing-svg)
 
-<a  rel="noopener"  target="_blank" href="https://www.scandiccompany.com/" >Visit My Website🌐</a>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=36BCF7FF&multiline=true&repeat=false&width=441&height=100&lines=Software+Engineer)](https://git.io/typing-svg)
 -------------------------
