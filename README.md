@@ -26,7 +26,8 @@ I have had a particular interest and focus on developing my strong programming s
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=36BCF7FF&repeat=false&width=435&lines=Badges)](https://git.io/typing-svg)
 
 <b>My GitHub Stats</b>
-from gitlab 
+<br/>
+From gitlab 
 https://gitlab.gbar.dtu.dk/software-develpoer-gruppe9/test_jenkins
 <a href="https://github.com/DragonHeart00"><img src="https://github-readme-stats.vercel.app/api?username=DragonHeart00&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DragonHeart00's GitHub stats" /></a>
 
